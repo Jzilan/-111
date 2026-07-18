@@ -1,0 +1,17 @@
+{
+  "name": "guishilu-config-assistant",
+  "version": "1.6.0",
+  "description": "诡事录配置小助手 - MVU最优配置 + 提示词模板 + 剧情/人物双控制器",
+  "type": "module",
+  "main": "guishilu-config-assistant.js",
+  "files": [
+    "guishilu-config-assistant.js",
+    "guishilu-config-assistant.iife.js"
+  ],
+  "exports": {
+    ".": "./guishilu-config-assistant.js",
+    "./iife": "./guishilu-config-assistant.iife.js"
+  },
+  "keywords": ["SillyTavern", "TavernHelper", "诡事录", "MVU", "配置"],
+  "license": "MIT"
+}
