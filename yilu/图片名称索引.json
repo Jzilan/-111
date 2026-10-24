@@ -1424,5 +1424,75 @@
   },
   "地球地图-夜间发光纹理": {
     "path": "yilu/assets/地图纹理/地球地图-夜间发光纹理.jpg"
+  },
+  "觉醒仪式-左侧巨龙": {
+    "path": "yilu/assets/界面装饰/觉醒仪式-左侧巨龙.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/08/28/6a9157bf4f64f.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "觉醒仪式-觉醒水晶": {
+    "path": "yilu/assets/界面装饰/觉醒仪式-觉醒水晶.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/08/28/6a9157c295856.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "正文阅读页-全屏背景": {
+    "path": "yilu/assets/界面装饰/正文阅读页-全屏背景.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964ef08ca5a.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "正文阅读页-场景卡片背景": {
+    "path": "yilu/assets/界面装饰/正文阅读页-场景卡片背景.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964ef38a3f5.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "异能卡片-元素系": {
+    "path": "yilu/assets/界面装饰/异能卡片-元素系.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964eef65d29.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "异能卡片-强化系": {
+    "path": "yilu/assets/界面装饰/异能卡片-强化系.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964eea80296.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "异能卡片-精神系": {
+    "path": "yilu/assets/界面装饰/异能卡片-精神系.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964eea73341.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "异能卡片-辅助系": {
+    "path": "yilu/assets/界面装饰/异能卡片-辅助系.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964eeacab23.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "异能卡片-特殊系": {
+    "path": "yilu/assets/界面装饰/异能卡片-特殊系.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/09/01/6a964ef0eb0ab.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "手机悬浮入口-待机": {
+    "path": "yilu/assets/界面装饰/手机悬浮入口-待机.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/08/31/6a950be75ef92.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "手机悬浮入口-打开": {
+    "path": "yilu/assets/界面装饰/手机悬浮入口-打开.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/08/31/6a950be580788.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "手机悬浮入口-拖动": {
+    "path": "yilu/assets/界面装饰/手机悬浮入口-拖动.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/08/31/6a950be738c2a.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "手机悬浮入口-停靠": {
+    "path": "yilu/assets/界面装饰/手机悬浮入口-停靠.png",
+    "replaces": "https://cdn.myfollo.xyz/2026/08/31/6a953b0b502d0.png",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
+  },
+  "表情-小狗主动套绳": {
+    "path": "yilu/assets/表情/表情-小狗主动套绳.png",
+    "replaces": "https://files.catbox.moe/qa67b.gif",
+    "provenance": "用户确认的 imagegen 第一版重绘，2026-10-24"
   }
 }
